@@ -1,6 +1,6 @@
 # GCIT1003 Wiki
 
-Welcome to the *GCIT1003: IT for success of Everyday life and work* students wiki!
+Welcome to the _**GCIT1003: IT for success of Everyday life and work**_ wiki!
 
 欢迎来到由 UICHCC 计算机协会维护的 IT 课程维基页面。
 
